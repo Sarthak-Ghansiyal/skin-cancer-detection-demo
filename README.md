@@ -1,6 +1,6 @@
 # Overview :
 
-This project demonstrates an AI-powered skin cancer detection system. Users can upload an image of a skin lesion, and the application will predict whether it is benign or malignant. The model is built using TensorFlow and deployed using Streamlit for an interactive user experience.
+This project demonstrates an AI-powered skin cancer detection system. Users can upload an image of a skin lesion, and the application will predict whether it is benign or malignant. The model is built using TensorFlow and deployed using Streamlit. 
 
 
 
